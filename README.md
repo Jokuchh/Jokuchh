@@ -9,7 +9,9 @@
 - 4️⃣**GameDev projects** – created a plot and basic functionality of a games, developed a design, technical and basic functionality of a 2D game.
 - 5️⃣**Charity NFT project** – developed web-page, explored smart contract, led the team during whole process.
 - 6️⃣**Esp32 project**  –from esp32 to esp32 connection with rescaling voltage and converting from signal analogue to signal numerique
-
+- 7️⃣
+- 8️⃣
+- 9️⃣
 <!---
 Jokuchh/Jokuchh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
