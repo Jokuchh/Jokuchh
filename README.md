@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/92337987/169886013-c013ec13-052f-4826-81be-7703afa51e97.png)
 👋 Hi, I’m @Jokuchh, student of different universities with rich baggage of knowledge.
 👀 I’m interested in different fields of IT such as : Automatisation, AI and Neural Networks, Crypto and blockchain technology. Still fine with Networks and Cybersecurity. 
 🌱 I’m currently learning how to deal with AI and taking part in the Robotech project. 
