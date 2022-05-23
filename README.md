@@ -5,7 +5,7 @@
 
 
 **Projects :** 
-- 1️⃣**Robotech project** – Creation of two collaborative robots that continuously inform each other of the progress of the missions thanks to robust wireless communications. If a robot encounters a problem, its co-robot is automatically informed so that the strategy is reviewed dynamically, making the robot "flotilla" fully autonomous.Creating arms for these robots - a concept and implementation of it.
+- 1️⃣**Robotech project** – Creation of two collaborative robots that continuously inform each other of the progress of the missions thanks to robust wireless communications. If a robot encounters a problem, its co-robot is automatically informed so that the strategy is reviewed dynamically, making the robot "flotilla" fully autonomous. Creating arms for these robots - a concept and implementation of it.
 - 2️⃣**WebDev projects** – developed web-sites, internet shops and e-platforms.
 - 3️⃣**AppDev projects** – created a music player with key basic functionality.
 - 4️⃣**GameDev projects** – created a plot and basic functionality of a games, developed a design, technical and basic functionality of a 2D game.
