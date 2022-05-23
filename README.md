@@ -14,9 +14,9 @@
 - 6️⃣**Esp32 project**  – From esp32 to esp32 connection with rescaling voltage and converting from signal analogue to signal numerique.
 - 7️⃣**Internet of things** : 
 
-Study and development of a temperature monitoring platform : Creation of an IoT-based tool for live temperature monitoring using the ESP32 microcontroller and Cloud Computing.
+ 1. Study and development of a temperature monitoring platform : Creation of an IoT-based tool for live temperature monitoring using the ESP32 microcontroller and Cloud Computing.
 
-Contactless communication by using RFID and NFC technologies : Development of a contactless payment device using RFID with database (MySql). Main aim of which is to scan and store data, eventually to raise a discount. 
+ 2. Contactless communication by using RFID and NFC technologies : Development of a contactless payment device using RFID with database (MySql). Main aim of which is to scan and store data, eventually to raise a discount. 
 - 8️⃣
 - 9️⃣
 <!---
