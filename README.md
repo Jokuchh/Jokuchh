@@ -1,11 +1,11 @@
-👋 Hi, I’m @Jokuchh, student of different universities with kind of rich baggage of knowledge.
+👋 Hi, I’m @Jokuchh, student of different universities with rich baggage of knowledge.
 👀 I’m interested in different fields of IT such as : Automatisation, AI and Neural Networks, Crypto and blockchain technology. Still fine with Networks and Cybersecurity. Adore team building and communication with people.
-🌱 I’m currently learning how to deal with AI and RoboTech.
+🌱 I’m currently learning how to deal with AI and taking part in the Robotech project.
 📫 How to reach me - first of all linkedin is connected as well as Twitter, but basically i prefer Instagram so you can reach me by @_diman.s. 
 
 
 **Projects :** 
-- 1️⃣**Robotech project** – developed 2 robots able to perform basic functions; programmed step-by-step motor enabling automation of a robotic arm; created a concept of a robot + robotic arms.
+- 1️⃣**Robotech project** – Creation of two collaborative robots that continuously inform each other of the progress of the missions thanks to robust wireless communications. If a robot encounters a problem, its co-robot is automatically informed so that the strategy is reviewed dynamically, making the robot "flotilla" fully autonomous.Creating arms for these robots - a concept and implementation of it.
 - 2️⃣**WebDev projects** – developed web-sites, internet shops and e-platforms.
 - 3️⃣**AppDev projects** – created a music player with key basic functionality.
 - 4️⃣**GameDev projects** – created a plot and basic functionality of a games, developed a design, technical and basic functionality of a 2D game.
