@@ -1,8 +1,9 @@
 👋 Hi, I’m @Jokuchh, student of different universities with rich baggage of knowledge.
 👀 I’m interested in different fields of IT such as : Automatisation, AI and Neural Networks, Crypto and blockchain technology. Still fine with Networks and Cybersecurity. 
-🌱 I’m currently learning how to deal with AI and taking part in the Robotech project. 
+🌱 I’m currently learning how to deal with AI and taking part in the Robotech project.  
 ✨ Determined and self-confident, easy to accept criticism and ready for new discoveries. Adore team building and communication with people. 
-📫 How to reach me - first of all linkedin is connected as well as Twitter, but basically i prefer Instagram so you can reach me by @_diman.s. 
+📫 How to reach me - first of all linkedin is connected as well as Twitter, but basically i prefer Instagram so you can reach me by @_diman.s.
+💀 **Unfortunately, all of them are private just to make sure that originality was maintained.**
 
 
 **Projects :** 
