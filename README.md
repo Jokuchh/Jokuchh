@@ -19,7 +19,12 @@
  1. Study and development of a temperature monitoring platform : Creation of an IoT-based tool for live temperature monitoring using the ESP32 microcontroller and Cloud Computing.
 
  2. Contactless communication by using RFID and NFC technologies : Development of a contactless payment device using RFID with database (MySql). Main aim of which is to scan and store data, eventually to raise a discount. 
-- 6️⃣**Various researches** - For now Numerical-Automatics & Sensitivity-Analysis
+- 6️⃣**Various researches** - For now : 
+1. Sensitivity-Analysis 
+2. Digital-Signal-Processing
+3. Digital-Image-Processing 
+4. Cybersecurity
+5. Numerical-Automatics
 - 7️⃣**Esp32 project**  – From esp32 to esp32 connection with rescaling voltage and converting from signal analogue to signal numerique.
 - 8️⃣**WebDev projects** – Developed web-sites, internet shops and e-platforms.
 - 9️⃣**AppDev projects** – Created a music player with key basic functionality.
