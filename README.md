@@ -3,7 +3,7 @@
 🌱 I’m currently learning how to deal with AI and taking part in the Robotech project.  
 ✨ Determined and self-confident, easy to accept criticism and ready for new discoveries. Adore team building and communication with people. 
 📫 How to reach me - first of all linkedin is connected as well as Twitter, but basically i prefer Instagram so you can reach me by @_diman.s.
-💀 **Unfortunately, all of them are private just to make sure that originality was maintained.**
+💀 **All of them are private just to make sure that originality was maintained.**
 
 
 **Projects :** 
