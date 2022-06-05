@@ -13,7 +13,7 @@
 2. Qcar : Obstacle Detection and avoidance.
 3. Qbot : Vision guided control for a differential drive mobile robot.
 - 3️⃣**Robotech project** – Creation of two collaborative robots that continuously inform each other of the progress of the missions thanks to robust wireless communications. If a robot encounters a problem, its co-robot is automatically informed so that the strategy is reviewed dynamically, making the robot "flotilla" fully autonomous. Creating arms for these robots - a concept and implementation of it.
-- 4️⃣**AI & Machine Learning & Deep Learning** - a lot of different prectice knowledge in these spheres
+- 4️⃣**AI & Machine Learning & Deep Learning** - a lot of different practice knowledge in these spheres
 - 5️⃣**Internet of things** : 
 
  1. Study and development of a temperature monitoring platform : Creation of an IoT-based tool for live temperature monitoring using the ESP32 microcontroller and Cloud Computing.
@@ -24,6 +24,7 @@
 - 8️⃣**WebDev projects** – Developed web-sites, internet shops and e-platforms.
 - 9️⃣**AppDev projects** – Created a music player with key basic functionality.
 - 1️⃣0️⃣**GameDev projects** – Created a plot and basic functionality of a games, developed a design, technical and basic functionality of a 2D game.
+- 1️⃣1️⃣**Digital Signal Processing & Digital Image Processing** - practice with image processing and exploring big part of digital signal processing.
 <!---
 Jokuchh/Jokuchh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
