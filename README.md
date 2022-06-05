@@ -6,7 +6,7 @@
 💀 **All of them are private just to make sure that originality was maintained. In Contents you can find all of my projects and works which was done during 2020-2022 years, if you are interested more i can open all or some of the repositories for you.**  
 
 
-**Projects :** 
+**Projects :** *Details in Content* 
 - 1️⃣**Charity NFT project** – Developed web-page, explored smart contract, led the team during whole process.
 - 2️⃣**Six different researches about these robots** :
 1. 3pi+ : Line tracking control strategies for mobile robots.
