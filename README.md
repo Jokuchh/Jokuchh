@@ -1,4 +1,4 @@
-👋 Hi, I’m @Jokuchh, student of different universities with rich baggage of knowledge.
+👋 Hi, I’m @Jokuchh, 19y.o student of different universities with rich baggage of knowledge.
 👀 I’m interested in different fields of IT such as : Automatisation, AI and Neural Networks, Crypto and blockchain technology. Still fine with Networks and Cybersecurity. 
 🌱 I’m currently learning how to deal with AI and taking part in the Robotech project.  
 ✨ Determined and self-confident, easy to accept criticism and ready for new discoveries. Adore team building and communication with people. 
