@@ -18,7 +18,7 @@
  1. Study and development of a temperature monitoring platform : Creation of an IoT-based tool for live temperature monitoring using the ESP32 microcontroller and Cloud Computing.
 
  2. Contactless communication by using RFID and NFC technologies : Development of a contactless payment device using RFID with database (MySql). Main aim of which is to scan and store data, eventually to raise a discount. 
-- 8️⃣
+- 8️⃣**Various researches** - For now Numerical-Automatics & Sensitivity-Analysis
 - 9️⃣
 <!---
 Jokuchh/Jokuchh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
