@@ -20,7 +20,8 @@
  2. Contactless communication by using RFID and NFC technologies : Development of a contactless payment device using RFID with database (MySql). Main aim of which is to scan and store data, eventually to raise a discount. 
 - 8️⃣**Various researches** - For now Numerical-Automatics & Sensitivity-Analysis
 - 9️⃣**Esp32 project**  – From esp32 to esp32 connection with rescaling voltage and converting from signal analogue to signal numerique.
-- 1️⃣0️⃣ 
+- 1️⃣0️⃣**Six different researches about these robots**
+
 <!---
 Jokuchh/Jokuchh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
