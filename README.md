@@ -9,9 +9,9 @@
 **Projects :** 
 - 1️⃣**Charity NFT project** – Developed web-page, explored smart contract, led the team during whole process.
 - 2️⃣**Six different researches about these robots** :
-1. 3pi+
-2. Qcar
-3. Qbot
+1. 3pi+ : Line tracking control strategies for mobile robots.
+2. Qcar : Obstacle Detection and avoidance.
+3. Qbot : Vision guided control for a differential drive mobile robot.
 - 3️⃣**Robotech project** – Creation of two collaborative robots that continuously inform each other of the progress of the missions thanks to robust wireless communications. If a robot encounters a problem, its co-robot is automatically informed so that the strategy is reviewed dynamically, making the robot "flotilla" fully autonomous. Creating arms for these robots - a concept and implementation of it.
 - 4️⃣**AI & Machine Learning & Deep Learning** - a lot of different prectice knowledge in these spheres
 - 5️⃣**Internet of things** : 
