@@ -25,6 +25,7 @@
 3. Digital-Image-Processing 
 4. Cybersecurity
 5. Numerical-Automatics
+6. Software Engineering (Scrum, UML, Design Patterns)
 - 7️⃣**Esp32 project**  – From esp32 to esp32 connection with rescaling voltage and converting from signal analogue to signal numerique.
 - 8️⃣**WebDev projects** – Developed web-sites, internet shops and e-platforms.
 - 9️⃣**AppDev projects** – Created a music player with key basic functionality.
