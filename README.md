@@ -5,7 +5,7 @@
 📫 How to reach me - first of all linkedin is connected as well as Twitter, but basically i prefer Instagram so you can reach me by @_diman.s.
 💀 **All of them are private just to make sure that originality was maintained. In Contents you can find all of my projects and works which was done during 2020-2022 years, if you are interested more i can open all or some of the repositories for you.**
 
-**Content** -> **Certificates**  
+**Repositories** -> **Certificates**  
 
 
 **Projects :** *Details in Content* 
