@@ -34,6 +34,7 @@
 - 9️⃣**AppDev projects** – Created a music player with key basic functionality.
 - 1️⃣0️⃣**GameDev projects** – Created a plot and basic functionality of a games, developed a design, technical and basic functionality of a 2D game.
 - 1️⃣1️⃣**Digital Signal Processing & Digital Image Processing** - practice with image processing and exploring big part of digital signal processing.
+- 1️⃣2️⃣**Pactice with HTML/CSS/JS** : WorkTimer, Clock, WhiteMouse, QR-Generator, Calculator-JS.  
 <!---
 Jokuchh/Jokuchh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
