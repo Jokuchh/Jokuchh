@@ -7,7 +7,9 @@
 💀 **All of them are private just to make sure that originality was maintained. In Contents you can find all of my projects and works which was done during 2020-2022 years, if you are interested more i can open all or some of the repositories for you.**
 
 ## Description of projects
-**Repositories** -> **Certificates**  
+Going to the **Repositories** you can see practical knowledge on such things as C, C#, C++, Python, Jupyter notebook IDE, HTML, CSS, JavaScript, Java (I worked with it in my last job), SCSS practice, and various research. 
+Going to the **Repositories** -> **Certificates**  , you can see various soft and hard skill certificates. 
+
 
 
 **Projects :** *Details in Content* 
