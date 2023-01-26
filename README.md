@@ -1,4 +1,4 @@
-# About myself
+# About myself 
 👋🏽 Hi, I’m @Jokuchh, 19y.o student of different universities with rich baggage of knowledge. For example during 2022 I was taking part in the Robotech project, for the Coupe de France Robotique 🤖 I’m interested in different fields of IT such as : Automatisation, AI and Neural Networks, Crypto and blockchain technology. Still fine with Networks and Cybersecurity.
 🌱 I’m currently learning how to deal with AI and working on various researches 👀  
 
@@ -8,7 +8,7 @@
 💀 **All of them are private just to make sure that originality was maintained. In Contents you can find all of my projects and works which was done during 2020-2022 years, if you are interested more i can open all or some of the repositories for you.**
 
 ![image](https://user-images.githubusercontent.com/92337987/214947951-41d74040-a652-4be6-bcf4-bac588cf31b4.png)
-![image](https://user-images.githubusercontent.com/92337987/214945270-f37e87aa-f418-4347-b580-42d8d147f0d3.png)
+
 
 
 
@@ -33,13 +33,11 @@ Going to the **Repositories** -> **Certificates**  , you can see various **soft 
 
  2. Contactless communication by using RFID and NFC technologies : Development of a contactless payment device using RFID with database (MySql). Main aim of which is to scan and store data, eventually to raise a discount. 
 - 6️⃣**Various researches** - For now : 
-1. Sensitivity-Analysis 
-2. Digital-Signal-Processing
-3. Digital-Image-Processing 
-4. Cybersecurity
-5. Numerical-Automatics
-6. Software Engineering (Scrum, UML, Design Patterns)
-7. Event control and multi agent system 
+
+![image](https://user-images.githubusercontent.com/92337987/214948610-c9ba6b77-68b5-480f-8faf-0e2241af75a2.png) ![image](https://user-images.githubusercontent.com/92337987/214948825-b5d9febb-81a8-49f8-88f6-67e7b6cde4da.png)
+![image](https://user-images.githubusercontent.com/92337987/214945270-f37e87aa-f418-4347-b580-42d8d147f0d3.png)
+
+
 - 7️⃣**Esp32 project**  – From esp32 to esp32 connection with rescaling voltage and converting from signal analogue to signal numerique.
 - 8️⃣**WebDev projects** – Developed web-sites, internet shops and e-platforms.
 - 9️⃣**AppDev projects** – Created a music player with key basic functionality.
