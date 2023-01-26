@@ -1,11 +1,9 @@
 # About myself 
-👋🏽 Hi, I’m @Jokuchh, 19y.o student of different universities with rich baggage of knowledge. For example during 2022 I was taking part in the Robotech project, for the Coupe de France Robotique 🤖 I’m interested in different fields of IT such as : Automatisation, AI and Neural Networks, Crypto and blockchain technology. Still fine with Networks and Cybersecurity.
-🌱 I’m currently learning how to deal with AI and working on various researches 👀  
+👋🏽 Hi, I’m @Jokuchh, a 19y.o student of different universities with a rich baggage of knowledge. For example, in 2022 I was taking part in the Robotech project, for the Coupe de France Robotique 🤖 I’m interested in different fields of IT such as QA Testing, Automatisation, IoT, Artificial intelligence & Data Science, Crypto & blockchain technology. I with such things as scrum and various other agile methods. Still fine with Networks and Cybersecurity.
+🌱 I’m currently learning how to deal with AI and working on various research, practicing with testing web/games/mobile apps 👀  
 
 
-✨ Determined and self-confident, easy to accept criticism and ready for new discoveries. Adore team building and communication with people. 
-📫 How to reach me - first of all linkedin is connected as well as Twitter, but basically i prefer Instagram so you can reach me by @_diman.s.
-💀 **All of them are private just to make sure that originality was maintained. In Contents you can find all of my projects and works which was done during 2020-2022 years, if you are interested more i can open all or some of the repositories for you.** 🪐
+✨ Determined and self-confident, easy to accept criticism, and ready for discoveries. Adore team building and communication with people. I have commercial experience as a Team Lead, Junior software QA and engineer, which is described in detail in my LinkedIn and my CV. 📫 How to reach me - first of all LinkedIn is connected as well to Twitter, but I prefer Instagram so you can reach me by @_diman.s.🪐
 
 ![image](https://user-images.githubusercontent.com/92337987/214952436-6d18371e-6faa-4695-9c0f-bd44e04fede0.png)
 
