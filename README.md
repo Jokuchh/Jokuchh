@@ -8,15 +8,6 @@
 💀 **All of them are private just to make sure that originality was maintained. In Contents you can find all of my projects and works which was done during 2020-2022 years, if you are interested more i can open all or some of the repositories for you.**
 
 ![image](https://user-images.githubusercontent.com/92337987/214945579-f84c912d-abb6-4cbf-af4c-28dde6b41125.png)
-![image](https://user-images.githubusercontent.com/92337987/214946899-a871bcc2-dc24-4cc2-b67d-cc1b406e20bc.png)
-![image](https://user-images.githubusercontent.com/92337987/214946900-6cd93c04-987d-4a07-b5f3-9956658b7377.png)
-![image](https://user-images.githubusercontent.com/92337987/214946904-6c77779b-a2db-45ee-8df1-d9fdb1f774ba.png)
-![image](https://user-images.githubusercontent.com/92337987/214946964-3d44c2a2-4696-430a-8356-2ba72849b1d7.png)
-![image](https://user-images.githubusercontent.com/92337987/214946971-be5ed4e1-4914-438b-86bf-4a93021a8ab7.png)
-![image](https://user-images.githubusercontent.com/92337987/214946973-82dc2adb-8887-4ea3-8c4e-a589848836d2.png)
-![image](https://user-images.githubusercontent.com/92337987/214946975-69a2baac-9bd1-4d34-a277-4429fe8f3532.png)
-![image](https://user-images.githubusercontent.com/92337987/214946977-9619b695-35c9-4b65-9eef-e9359301e2ea.png)
-![image](https://user-images.githubusercontent.com/92337987/214946978-e6a1adaa-6e13-44db-8577-30e3d6909d8e.png)
 ![image](https://user-images.githubusercontent.com/92337987/214945270-f37e87aa-f418-4347-b580-42d8d147f0d3.png)
 
 
