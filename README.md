@@ -1,5 +1,5 @@
 # About myself
-👋 Hi, I’m @Jokuchh, 19y.o student of different universities with rich baggage of knowledge. For example during 2022 I was taking part in the Robotech project, for the Coupe de France Robotique 🤖 I’m interested in different fields of IT such as : Automatisation, AI and Neural Networks, Crypto and blockchain technology. Still fine with Networks and Cybersecurity.
+👋🏽 Hi, I’m @Jokuchh, 19y.o student of different universities with rich baggage of knowledge. For example during 2022 I was taking part in the Robotech project, for the Coupe de France Robotique 🤖 I’m interested in different fields of IT such as : Automatisation, AI and Neural Networks, Crypto and blockchain technology. Still fine with Networks and Cybersecurity.
 🌱 I’m currently learning how to deal with AI and working on various researches 👀  
 
 
