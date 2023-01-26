@@ -2,9 +2,15 @@
 👋 Hi, I’m @Jokuchh, 19y.o student of different universities with rich baggage of knowledge. For example during 2022 I was taking part in the Robotech project, for the Coupe de France Robotique 🤖 I’m interested in different fields of IT such as : Automatisation, AI and Neural Networks, Crypto and blockchain technology. Still fine with Networks and Cybersecurity.
 🌱 I’m currently learning how to deal with AI and working on various researches 👀  
 
+
 ✨ Determined and self-confident, easy to accept criticism and ready for new discoveries. Adore team building and communication with people. 
 📫 How to reach me - first of all linkedin is connected as well as Twitter, but basically i prefer Instagram so you can reach me by @_diman.s.
 💀 **All of them are private just to make sure that originality was maintained. In Contents you can find all of my projects and works which was done during 2020-2022 years, if you are interested more i can open all or some of the repositories for you.**
+
+![image](https://user-images.githubusercontent.com/92337987/214945579-f84c912d-abb6-4cbf-af4c-28dde6b41125.png)
+![image](https://user-images.githubusercontent.com/92337987/214945270-f37e87aa-f418-4347-b580-42d8d147f0d3.png)
+
+
 
 # Description of projects
 Going to the **Repositories** you can see practical knowledge on such things as **C, C#, C++, Python, Jupyter notebook IDE, HTML, CSS, JavaScript, Java (I worked with it in my last job), SCSS practice, and various research**. 
