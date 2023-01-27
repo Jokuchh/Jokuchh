@@ -5,7 +5,7 @@
 
 ✨ Determined and self-confident, easy to accept criticism, and ready for discoveries. Adore team building and communication with people. I have commercial experience as a Team Lead, Junior software QA and engineer, which is described in detail in my LinkedIn and my CV. 📫 How to reach me - first of all LinkedIn is connected as well to Twitter, but I prefer Instagram so you can reach me by @_diman.s.🪐
 
-![image](https://user-images.githubusercontent.com/92337987/214952436-6d18371e-6faa-4695-9c0f-bd44e04fede0.png)
+![image](https://user-images.githubusercontent.com/92337987/215180569-686d555a-9456-4272-873b-4b8c50cc936f.png)
 
 
 
